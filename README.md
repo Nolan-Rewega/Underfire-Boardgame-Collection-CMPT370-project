@@ -5,6 +5,9 @@ EDIT: A inclusive list of my contributions to the project:
 - Creation of high-score screen functionality and GUI.
 
 # --------------------------------------------------------
+Demo: https://www.youtube.com/watch?v=HIWEsknDj1M
+
+# --------------------------------------------------------
 
 Link to Download the game. (DEAD LINK)  
 https://www.mediafire.com/file/aisnz9ksudc2w9f/UnderFire%2527s_Board_Game_Collection.zip/file
